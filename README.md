@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KIP333
 - 👀 I’m interested in everythink
 - 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me kiphui6@gmail.com
 
 <!---
